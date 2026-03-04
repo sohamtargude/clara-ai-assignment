@@ -1,0 +1,19 @@
+{
+  "account_id": "account_1",
+  "company_name": "Ben's Electric",
+  "services_supported": [
+    "electrical repair",
+    "service calls",
+    "troubleshooting",
+    "EV charger installation",
+    "panel upgrades",
+    "residential electrical work",
+    "commercial electrical work"
+  ],
+  "integration_constraints": "Uses Jobber CRM",
+  "notes": "Extracted from demo call transcript",
+  "business_hours": "8 AM - 5 PM",
+  "after_hours_action": "Collect customer details and schedule follow-up",
+  "emergency_handling": "Transfer emergency electrical calls to owner",
+  "spam_filtering": "Filter sales and spam calls"
+}

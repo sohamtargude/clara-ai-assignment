@@ -1,0 +1,31 @@
+Speaker 1: Hi Ben, welcome to the onboarding call. Today we will configure Clara AI for your business.
+
+Speaker 2: Thanks. I'm excited to get started.
+
+Speaker 1: First, we need to understand your business. What services do you provide?
+
+Speaker 2: We provide electrical services like outlet replacements, EV charger installations, hot tub wiring, electrical troubleshooting, and general electrical maintenance.
+
+Speaker 1: Great. What are your normal business hours?
+
+Speaker 2: Our business hours are from 8 AM to 5 PM, Monday to Friday.
+
+Speaker 1: What should Clara do if a customer calls after business hours?
+
+Speaker 2: Clara should collect the customer's name, phone number, address, and the issue they are facing. Then Clara should schedule a follow-up appointment for the next business day.
+
+Speaker 1: Do you want emergency electrical issues to be transferred directly to you?
+
+Speaker 2: Yes. If the customer reports an emergency electrical problem, Clara should transfer the call directly to me.
+
+Speaker 1: Understood. Do you want Clara to filter spam or sales calls?
+
+Speaker 2: Yes. Spam calls and sales calls should be filtered automatically.
+
+Speaker 1: Would you like Clara to book service appointments directly?
+
+Speaker 2: Yes. Clara can suggest available times and collect the customer details so we can confirm the appointment later.
+
+Speaker 1: Perfect. Clara will answer incoming calls, collect customer information, filter spam calls, schedule service appointments, and escalate emergency calls.
+
+Speaker 2: That sounds great. I’m looking forward to using Clara AI to help manage our calls.

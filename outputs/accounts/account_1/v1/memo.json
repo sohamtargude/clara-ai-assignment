@@ -1,0 +1,15 @@
+{
+  "account_id": "account_1",
+  "company_name": "Ben's Electric",
+  "services_supported": [
+    "electrical repair",
+    "service calls",
+    "troubleshooting",
+    "EV charger installation",
+    "panel upgrades",
+    "residential electrical work",
+    "commercial electrical work"
+  ],
+  "integration_constraints": "Uses Jobber CRM",
+  "notes": "Extracted from demo call transcript"
+}

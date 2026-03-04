@@ -1,0 +1,147 @@
+Speaker 1: All right, we'll let Ben in now in three, two, one. And he's in.
+
+Speaker 2: Hey, can you hear me?
+
+Speaker 3: Wait, can you hear me? Yeah.
+
+Speaker 2: Yeah, I can. Perfect.
+
+Speaker 1: Here we go.
+
+Speaker 1: Okay, thank you so much for joining on such short notice. Before starting, I just wanted to introduce myself again. I'm part of the Clara team. We reach out to businesses across North America and we've built AI agents for trade businesses specifically. To help with that I have here with me my colleague who is the solutions expert and growth partner at Clara AI. He knows everything about the industry as well as the product and will walk us through the presentation today.
+
+Speaker 2: Thank you. Good morning. How are you?
+
+Speaker 3: I'm doing very well. How are you?
+
+Speaker 2: Very well. Really excited about our conversation and glad we could do it earlier. I hope we have enough time and you're not rushing somewhere.
+
+Speaker 3: I am always in a rush but we've got time.
+
+Speaker 2: Great. Let me start by introducing myself and our company. After that we'd love to know more about you since it's the first time we've connected. Then we'll dive into what we do and run a demo of the platform.
+
+Speaker 3: Sounds good.
+
+Speaker 2: I work with a small team and speak to contractors to understand their workflows and see where our solution can enhance how they operate. Our company started about three years ago. We noticed AI was heavily used in white-collar industries but not much in trade businesses. That’s how we began. We spoke to contractors and discovered many opportunities to improve operations.
+
+Speaker 2: Before I continue, I'd love to know more about you. How long have you been in business?
+
+Speaker 3: I've been working for myself for about eight years now. I've been an electrician for 30 years though. We're still relatively small but trying to grow this year. I have a couple vans on the road and do most of the admin work myself.
+
+Speaker 2: That’s impressive.
+
+Speaker 3: I also tried using a virtual assistant once but it didn't work very well. I probably didn't know how to use it properly either.
+
+Speaker 2: That’s understandable. What CRM system do you use?
+
+Speaker 3: I use Jobber. It runs the whole business and works great.
+
+Speaker 2: How many people work with you?
+
+Speaker 3: I currently have two company vans and I'm getting a third soon. I also work with two subcontractors.
+
+Speaker 2: So roughly four vans working by the end of the year?
+
+Speaker 3: Yes. That’s the plan.
+
+Speaker 2: And what type of work do you usually handle?
+
+Speaker 3: Everything. Service calls, renovations, troubleshooting, EV chargers, panel changes, residential and commercial jobs.
+
+Speaker 2: That's a wide range.
+
+Speaker 3: It is, but it's all electrical work so we manage.
+
+Speaker 2: Do you receive calls after hours?
+
+Speaker 3: Occasionally. Mostly during business hours but sometimes weekends too.
+
+Speaker 2: Do you have someone on call?
+
+Speaker 3: I'm usually the one on call.
+
+Speaker 2: Understood. That helps us understand your workflow.
+
+Speaker 2: Now let me show you what Clara does. Imagine an AI receptionist answering calls 24/7. It speaks with customers, qualifies the job, and books appointments.
+
+Speaker 3: Okay.
+
+Speaker 2: Let’s try a demo. I'll show a phone number on the screen. Call it and pretend you’re a customer with an electrical issue.
+
+Speaker 3: Sure.
+
+Speaker 2: Please keep your phone on speaker so we can hear it.
+
+Speaker 3: Okay.
+
+Speaker 3: (Calling the demo system) Hello, I'm wondering if you guys do outlet replacements.
+
+Speaker 2 (Demo AI voice): Yes, we do handle outlet replacements. Are you replacing a single outlet or multiple outlets?
+
+Speaker 3: We want to redo all outlets in the house and mitigate aluminum wiring.
+
+Speaker 2 (Demo AI voice): That’s a smart move for safety. May I get your name and address so we can schedule an estimate?
+
+Speaker 3: My name is Ben and the address is 17119 Sundown Road, Calgary, Alberta.
+
+Speaker 2 (Demo AI voice): Thank you. What’s the best phone number to reach you?
+
+Speaker 3: 403-975-1773.
+
+Speaker 2 (Demo AI voice): Do you have a preferred date or time?
+
+Speaker 3: Friday morning would be good.
+
+Speaker 2 (Demo AI voice): We can check availability after 8am and confirm shortly.
+
+Speaker 3: Sounds good.
+
+Speaker 2: Okay you can hang up.
+
+Speaker 3: Wow that was actually pretty good.
+
+Speaker 2: What were your first reactions?
+
+Speaker 3: Honestly I was surprised how well it worked.
+
+Speaker 2: The system can answer multiple calls simultaneously, qualify jobs, and route emergencies directly to you.
+
+Speaker 3: That's impressive.
+
+Speaker 2: After the call, you'll receive a summary via email, text, and a dashboard showing call details, customer info, and appointment requests.
+
+Speaker 3: That’s useful.
+
+Speaker 2: The system can also filter spam calls and sales calls automatically.
+
+Speaker 3: Good, because I get a lot of those.
+
+Speaker 2: Clara can also integrate with dispatch systems and eventually with CRMs like Jobber.
+
+Speaker 3: That would be helpful since everything goes into Jobber.
+
+Speaker 2: Exactly.
+
+Speaker 2: Now let’s talk about pricing.
+
+Speaker 2: The starter plan is $249 per month which includes 500 minutes of calls.
+
+Speaker 3: That sounds reasonable.
+
+Speaker 2: You could try it for three months and evaluate the results.
+
+Speaker 3: I’d be interested in trying it out.
+
+Speaker 2: Great. We'll send a contract and schedule a kickoff call to configure Clara specifically for your business workflows.
+
+Speaker 3: Sounds good.
+
+Speaker 2: Perfect. Looking forward to working together.
+
+Speaker 3: Thank you.
+
+Speaker 2: Have a great day.
+
+Speaker 3: You too.
+
+Speaker 1: Ending the meeting now.
